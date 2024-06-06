@@ -1,5 +1,5 @@
-# Hi 🙂
-I am technical generalist and gamedev idealist. *Unix lover. It is just in a few words.
+# Hello 🙂
+Technical generalist and gamedev idealist sometimes. *Unix lover.
 
 <p align="center">
     <a href="ttps://github.com/anuraghazra/github-readme-stats">
